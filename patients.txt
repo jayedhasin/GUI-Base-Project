@@ -1,0 +1,55 @@
+Admission Date/Time: 16:23 PM, 18/05/2026
+========================================================
+Patient Name   : Ratul
+Age            : 24
+Gender         : Male
+Blood Group    : B+
+Disease(s)     : Fever Diabetes
+Assigned Doctor: Dr. Rahim Uddin (Cardiology)
+Ward           : ICU
+Admission Fee  : 1500 BDT
+--------------------------------------------------------
+Admission Date/Time: 16:25 PM, 18/05/2026
+========================================================
+Patient Name   : Ratul ABc
+Age            : ffff
+Gender         : Male
+Blood Group    : A+
+Disease(s)     : Fever
+Assigned Doctor: Dr. Kamal Hossain (Orthopedics)
+Ward           : CCU
+Admission Fee  : hbgh BDT
+--------------------------------------------------------
+Admission Date/Time: 16:31 PM, 18/05/2026
+========================================================
+Patient Name   : ra
+Age            : rr
+Gender         : Male
+Blood Group    : B+
+Disease(s)     : Fever
+Assigned Doctor: Dr. Kamal Hossain (Orthopedics)
+Ward           : ICU
+Admission Fee  : gfhfg BDT
+--------------------------------------------------------
+Admission Date/Time: 16:37 PM, 18/05/2026
+========================================================
+Patient Name   : ww
+Age            : gg
+Gender         : Male
+Blood Group    : A+
+Disease(s)     : Fever
+Assigned Doctor: Dr. Kamal Hossain (Orthopedics)
+Ward           : ICU
+Admission Fee  : gg BDT
+--------------------------------------------------------
+Admission Date/Time: 23:10 PM, 18/05/2026
+========================================================
+Patient Name   : Ratul
+Age            : 22
+Gender         : Male
+Blood Group    : B+
+Disease(s)     : Fever
+Assigned Doctor: Dr. Salma Banu (Neurology)
+Ward           : ICU
+Admission Fee  : 1500.0 BDT
+--------------------------------------------------------
